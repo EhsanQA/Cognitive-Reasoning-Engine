@@ -1,0 +1,1 @@
+The model architecture consists of 3 parts in which the first part understands the concepts active in the paragraph. The second however, does inference on concepts and does cognitive reasoning on them. The third part generates infered and reasoned text form the output of both first and second part.
